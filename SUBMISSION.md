@@ -1,8 +1,5 @@
 # Trial Task Submission - Resume Ecosystem Backend API
 
-## Working Prototype
-**GitHub Repository**: `/home/sahil/resume-api/` (Ready for deployment)
-
 ## Approach & Tools Used
 
 ### Strategic Approach
@@ -63,8 +60,7 @@ Frontend Apps → REST APIs → Real-time Data → Dynamic Resume Preview
 ## Deployment Ready
 ```bash
 npm install
-cp .env.example .env
-npm start
+npm run dev
 ```
 
 ## API Endpoints Summary
